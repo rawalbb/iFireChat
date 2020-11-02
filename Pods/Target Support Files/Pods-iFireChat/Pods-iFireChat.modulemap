@@ -1,0 +1,6 @@
+framework module Pods_iFireChat {
+  umbrella header "Pods-iFireChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
